@@ -1,0 +1,12 @@
+główny zielony #22AA6D
+hover #2B473E
+tło #2F2E30
+text #fff
+
+najpierw tworzysz <header> który będzie twoją belką
+do niego w pierwszym etapie wrzucisz tylko tą nawigację po lewej, a reszte ci powiem jak skończysz
+do headera dodasz elementy z puli (nav, a, li, ul) - pamiętaj o semantyce 
+potem musisz zastanowić się jakie elementy powinny mieć ustawionego display: flex (nie będziemy raczej używać w tej sytuacji inline)
+każdy element (zastanów się czy a czy li) będziesz musiał poszerzyć używając np marginesu wewnętrznego o ileś tam pixeli (tutaj po prostu zrób żeby było podobnmie jak na zdjęciu, bo nie wiem jakie tam są dokłądnie wartości)
+na hover tego elementu powinieneś zmienić mu kolor tła, kolor tekstu oraz dodać górny border w odpowiednim kolorze (sprawdź sobie jak się zmienia rozmiar i kolor borderu)
+
